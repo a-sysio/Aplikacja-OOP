@@ -72,3 +72,9 @@ fitclub/
 ├── main.py      # przykładowe uruchomienie
 └── README.md
 ```
+
+AI użyłem przy:
+- Zredagowaniu moich notatek do README.md
+- Wykrywaniu błędów w kodzie
+- Propozycji udoskonaleniu cześci kodu (np. klasy)
+- Dodawaniu komentarzy do kodu dla przejrzystości i łatwiejszej orientacji
